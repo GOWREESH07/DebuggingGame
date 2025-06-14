@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DebuggingGame/static/css/main.b2ca8fd6.css",
-    "main.js": "/DebuggingGame/static/js/main.7f10db7a.js",
+    "main.js": "/DebuggingGame/static/js/main.72b2d49d.js",
     "static/js/453.99afa34f.chunk.js": "/DebuggingGame/static/js/453.99afa34f.chunk.js",
     "index.html": "/DebuggingGame/index.html",
     "main.b2ca8fd6.css.map": "/DebuggingGame/static/css/main.b2ca8fd6.css.map",
-    "main.7f10db7a.js.map": "/DebuggingGame/static/js/main.7f10db7a.js.map",
+    "main.72b2d49d.js.map": "/DebuggingGame/static/js/main.72b2d49d.js.map",
     "453.99afa34f.chunk.js.map": "/DebuggingGame/static/js/453.99afa34f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2ca8fd6.css",
-    "static/js/main.7f10db7a.js"
+    "static/js/main.72b2d49d.js"
   ]
 }
